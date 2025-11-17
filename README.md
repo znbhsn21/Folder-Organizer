@@ -72,10 +72,6 @@ Contributions are welcome! If you have any ideas for improvements or bug fixes, 
 3.  Commit your changes.
 4.  Submit a pull request.
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE) - see the `LICENSE` file for details.
-
 ## 📬 Contact
 
 If you have any questions or issues, please feel free to contact me at zenabadnan10@gmail.com
